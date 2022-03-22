@@ -9,4 +9,8 @@ $(document).ready(function() {
     $("body").addClass("light-background");
   });
 
+  $("button#success").click(function() {
+    $("body").removeClass();
+  });
+
 }); 
