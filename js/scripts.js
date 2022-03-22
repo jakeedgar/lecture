@@ -11,6 +11,6 @@ $(document).ready(function() {
 
   $("button#success").click(function() {
     $("body").removeClass();
-  });
 
+  });
 }); 
