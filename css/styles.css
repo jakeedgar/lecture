@@ -1,11 +1,9 @@
-.green-background {
-  background-color: green;
+.dark-background {
+  background-color: #000;
+  color: blanchedalmond;
 }
 
-.yellow-background {
-  background-color: yellow;
-}
-
-.red-background {
-  background-color: red;
+.light-background {
+  background-color: blanchedalmond;
+  color: #000;
 }
